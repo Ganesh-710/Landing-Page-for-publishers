@@ -49,3 +49,7 @@ body {
    background-color: #3292a6;
 
 }
+.shop:hover{
+  background-color: #ddd;
+  color: #3292a6 !important;
+}
